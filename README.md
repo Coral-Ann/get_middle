@@ -29,7 +29,7 @@ Setup
 
 It should look like this:
 
-<div><img src="" width="650"></div>
+<div><img src="https://i.imgur.com/Mo26hOr.png" width="650"></div>
 
 
 Tech Stack
